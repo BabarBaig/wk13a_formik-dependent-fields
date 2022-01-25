@@ -1,0 +1,36 @@
+{
+  "name": "d4rbp",
+  "version": "0.0.0",
+  "description": "This example demonstrates how to use Formik in it's most basic way",
+  "main": "index.js",
+  "dependencies": {
+    "formik": "^2.2.9",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-scripts": "3.4.1"
+  },
+  "prettier": {
+    "trailingComma": "es5",
+    "singleQuote": true,
+    "semi": true
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BabarBaig/wk13a_formik-dependent-fields.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BabarBaig/wk13a_formik-dependent-fields/issues"
+  },
+  "homepage": "https://github.com/BabarBaig/wk13a_formik-dependent-fields#readme"
+}

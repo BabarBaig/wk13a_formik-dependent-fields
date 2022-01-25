@@ -1,6 +1,6 @@
 {
-  "name": "d4rbp",
-  "version": "0.0.0",
+  "name": "formik-example-basic",
+  "version": "0.1.0",
   "description": "This example demonstrates how to use Formik in it's most basic way",
   "main": "index.js",
   "dependencies": {
@@ -13,14 +13,5 @@
     "trailingComma": "es5",
     "singleQuote": true,
     "semi": true
-  },
-  "devDependencies": {
-    "react-scripts": "1.0.0"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
   }
 }
